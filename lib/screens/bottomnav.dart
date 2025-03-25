@@ -3,6 +3,7 @@ import 'package:gsoc_smart_health_reminder/providers/slouch_provider.dart';
 import 'package:gsoc_smart_health_reminder/screens/Analytics.dart';
 import 'package:gsoc_smart_health_reminder/screens/Home.dart';
 import 'package:gsoc_smart_health_reminder/screens/LeaderBoard.dart';
+import 'package:gsoc_smart_health_reminder/screens/challenge.dart';
 import 'package:gsoc_smart_health_reminder/screens/music_store.dart';
 import 'package:gsoc_smart_health_reminder/screens/profile.dart';
 import 'package:gsoc_smart_health_reminder/utils/style.dart';
@@ -26,6 +27,7 @@ class _BottomNavState extends State<BottomNav> {
       Home(),
       Leaderboard(),
       MeditationSoundStore(),
+      ChallengePage(),
       Profile(),
     ];
   }
@@ -51,6 +53,9 @@ class _BottomNavState extends State<BottomNav> {
           BottomNavigationBarItem(
             icon: Icon(Icons.music_note,size: 30,color: style.b), 
             label: "Store"),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.adjust_rounded,size: 30,color: style.b), 
+            label: "Challenge"),
           BottomNavigationBarItem(
             icon: Icon(Icons.person,size: 30,color: style.b), 
             label: "Profile"),

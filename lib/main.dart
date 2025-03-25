@@ -4,6 +4,7 @@ import 'package:gsoc_smart_health_reminder/game/game_provider.dart';
 import 'package:gsoc_smart_health_reminder/pet/pet_provider.dart.dart';
 import 'package:gsoc_smart_health_reminder/providers/auth_provider.dart';
 import 'package:gsoc_smart_health_reminder/providers/badge_provider.dart';
+import 'package:gsoc_smart_health_reminder/providers/challenge_provider.dart';
 import 'package:gsoc_smart_health_reminder/providers/daily_streak_provider.dart';
 import 'package:gsoc_smart_health_reminder/providers/friend_provider.dart';
 import 'package:gsoc_smart_health_reminder/providers/heart_provider.dart';
@@ -66,7 +67,7 @@ void main() async {
         ChangeNotifierProvider(create: (context) => GameProvider()),
         ChangeNotifierProvider(create: (context) => BadgeProvider()),
         ChangeNotifierProvider(create: (context) => UserProvider()),
-        //ChangeNotifierProvider(create: (context) => ThemeProvider()),
+        ChangeNotifierProvider(create: (context) => ChallengeProvider()),
       ],
       child: MyApp(),
     ),

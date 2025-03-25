@@ -127,4 +127,30 @@ class FriendProvider with ChangeNotifier {
       return List<Map<String,dynamic>>.from(doc.data()?['friendRequests']['sent'] ?? []);
     });
   }
+
+  Future<List<Map<String, dynamic>>> getFriendsList() async {
+    DocumentSnapshot userDoc = await _firestore.collection('users').doc(userId).get();
+    
+    List<dynamic> friendIds = userDoc.get('friends') ?? [];
+    
+    if (friendIds.isEmpty) {
+      return [];
+    }
+    List<Map<String, dynamic>> friends = [];
+    
+    for (String friendId in friendIds) {
+      try {
+        DocumentSnapshot friendDoc = await _firestore.collection('users').doc(friendId).get();
+
+        friends.add({
+          'id': friendId,
+          'name': friendDoc.get('displayName') ?? 'Unknown',
+        });
+      } catch (e) {
+        print('Error fetching friend details: $e');
+      }
+    }
+    
+    return friends;
+  }
 }
