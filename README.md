@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # gsoc_smart_health_reminder
 
 A new Flutter project.
@@ -17,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # GSOC-2025
->>>>>>> 99ce95a5fb4242f10d7a7dade5333a4b521e2ca4
+
