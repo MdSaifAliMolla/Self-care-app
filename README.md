@@ -24,7 +24,7 @@ An open-source, gamified health app to build better habits through intelligent r
 
 - **🐾 Virtual Pet System**
   - Spend coins to feed, level up, and customize your pet.
-  - Unlock micropets, calming music, and backgrounds.
+  - Unlock micropets, and backgrounds.
 
 - **⏰ Alarm Integration**
   - Wake-up alarms based on sleep quality.[TODO]
@@ -59,7 +59,7 @@ This project is built with:
 
 ---
 
-<!-- ## 🚀 Getting Started
+## 🚀 Getting Started
 
 To clone and run the app locally:
 
@@ -69,12 +69,8 @@ cd GSOC-2025
 flutter pub get
 flutter run
 ```
-
-> 📌 Make sure you have:
-> - Firebase set up with your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS)
-> - Flutter environment configured correctly
-
---- -->
+> This will also setup Firebase as I didn't care about security and uploaded all Firebase config file to GitHub 😤.
+--- 
 
 ## 🔮 Future Plans
 
@@ -83,12 +79,12 @@ flutter run
 - Extend pet system with leveling, feeding, and XP progression.
 - Purchase & integrate premium visual assets (badges, avatars, pets).
 - Integrate Lottie/Rive feedback animations for rewards and achievements.
-- Improve widget support (especially for iOS).
+- Improve widget support.
 - Optimize performance and add comprehensive tests and documentation.
 
 ---
 
-## 📬 Contact
+## 📬 Contact  ¯\_( ͡° ͜ʖ ͡°)_/¯
 
-**Md. Saif Ali Molla**  
+**Md. Saif Ali Molla **  
 📧 mdsaifalimolla74@gmail.com  
