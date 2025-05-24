@@ -1,11 +1,9 @@
 
-# 🌿 Smart Health Reminder
+# 🌿 Self-Care app
 
 An open-source, gamified health app to build better habits through intelligent reminders, achievements, virtual pets, and social challenges — all wrapped in a minimalist, cozy UI.  
 
 > 💡 Built using Flutter, Firebase, and Hive — inspired by Duolingo, Finch, and WaterDo.
-
-  ⚠️ **Disclaimer:** I didn't focus on UI/UX much as I tried to implement as many features as I can think of to show my competency in incorporating functionalities.
 
 ---
 
