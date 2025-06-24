@@ -52,8 +52,13 @@ An open-source, gamified health app to build better habits through intelligent r
 <img src='https://github.com/user-attachments/assets/d5edd54a-51c9-4dd1-9c1b-c93c128977b8' alt="Sample Image" height="500" />
 <img src='https://github.com/user-attachments/assets/c4d0e623-c62d-42ac-a628-dd922f42c793' alt="Sample Image" height="500" />
 <img src='https://github.com/user-attachments/assets/72a1f444-63f1-46dc-b7c4-68ef50c096a4' alt="Sample Image" height="500" />
-<img src='https://github.com/user-attachments/assets/bf11331e-c9b6-43e3-ae33-b5ac616fa506' alt="Sample Image" height="500" />
-<img src='https://github.com/user-attachments/assets/d03ab494-92a8-44c5-a887-1f95291a12ce' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/f4d7df78-6003-4c9b-8708-c089bce38c4b' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/d90504f9-d548-47e5-bdfc-59b2ff94e103' alt="Sample Image" height="500" />
+
+<img src='https://github.com/user-attachments/assets/6fd1977b-c9ed-4d3b-bc7c-ca2c935a18de' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/911f1d68-ab0c-427e-911b-ddf8552976b8' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/a854c83c-2936-47be-85da-d782e063ec8d' alt="Sample Image" height="500" />
+
 ## 🛠️ Project Implementation
 
 This project is built with:
