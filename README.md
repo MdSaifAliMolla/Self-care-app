@@ -1,5 +1,5 @@
 
-# 🌿 Self-Care app
+# 🌿 Self-Care app [PROTOTYPE]
 
 An open-source, gamified health app to build better habits through intelligent reminders, achievements, virtual pets, and social challenges — all wrapped in a minimalist, cozy UI.  
 
