@@ -36,7 +36,24 @@ An open-source, gamified health app to build better habits through intelligent r
   - Daily to-do tasks with optional alarms.
 
 ---
+## Demo
+<img src='https://github.com/user-attachments/assets/cc115bcd-b539-4b18-b24d-9d179497c782' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/ba8d001c-a910-4311-884d-ff7222097870' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/15fb651b-597a-4dc7-bb75-099361e07c3c' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/1bd26080-58fc-4b60-8d10-e320e7b909e6' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/5a7d95f5-776e-4b7c-8b3e-6ddd5ce1b1da' alt="Sample Image" height="500" />
 
+<img src='https://github.com/user-attachments/assets/716b879c-3583-4ece-9097-bddc1e892434' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/dd456201-6f8f-4877-b507-8fd3bc12bd9d' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/b4a4799e-ec02-426b-9236-9f836ea673ed' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/bf11331e-c9b6-43e3-ae33-b5ac616fa506' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/d03ab494-92a8-44c5-a887-1f95291a12ce' alt="Sample Image" height="500" />
+
+<img src='https://github.com/user-attachments/assets/d5edd54a-51c9-4dd1-9c1b-c93c128977b8' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/c4d0e623-c62d-42ac-a628-dd922f42c793' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/72a1f444-63f1-46dc-b7c4-68ef50c096a4' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/bf11331e-c9b6-43e3-ae33-b5ac616fa506' alt="Sample Image" height="500" />
+<img src='https://github.com/user-attachments/assets/d03ab494-92a8-44c5-a887-1f95291a12ce' alt="Sample Image" height="500" />
 ## 🛠️ Project Implementation
 
 This project is built with:
